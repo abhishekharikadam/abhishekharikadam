@@ -18,7 +18,7 @@ Via the ballot page (see screenshot below), the voter needs to enter his pseudon
 
 In this section, transactions (ballots) with valid data will be generated. They are then sealed into blocks. After that, you can explore the transactions and blocks, try to tamper the records, and verify them.
 
-![Sealed ballot](https://https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Confirmed%20Votes.png)
+![Sealed ballot](https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Confirmed%20Votes.png)
 
 ![Block](https://raw.githubusercontent.com/GottfriedCP/Blockchain-based-E-Voting-Simulation/master/screenshots/block.PNG)
 
