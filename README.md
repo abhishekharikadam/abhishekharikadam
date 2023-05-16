@@ -12,7 +12,7 @@ Via the ballot page (see screenshot below), the voter needs to enter his pseudon
 
 (The public-private key pair is hard coded and generated externally. See Technical Details below.)
 
-![Ballot page](https://raw.githubusercontent.com/GottfriedCP/Blockchain-based-E-Voting-Simulation/master/screenshots/ballot.PNG)
+![Ballot page](https://raw.https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Ballot%20.png)
 
 ### "Chain"
 
