@@ -12,7 +12,7 @@ Via the ballot page (see screenshot below), the voter needs to enter his pseudon
 
 (The public-private key pair is hard coded and generated externally. See Technical Details below.)
 
-![Ballot page](https://raw.github.com/abhishekharikadam/abhishekharikadam/blob/main/Ballot%20.png)
+![Ballot page](https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Ballot%20.png)
 
 ### "Chain"
 
