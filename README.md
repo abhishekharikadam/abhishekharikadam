@@ -20,7 +20,7 @@ In this section, transactions (ballots) with valid data will be generated. They 
 
 ![Sealed ballot](https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Screenshots/Confirmed%20Votes.png)
 
-![Block](https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Transactions.png)
+![Block](https://github.com/abhishekharikadam/abhishekharikadam/blob/main/Screenshots/Transactions.png)
 
 _The screenshot above shows that a node's database (i.e., your node) has been tampered. You will not see this in real blockchain explorer, but this should give you a glimpse of why tampering immutable ledger is futile._
 
